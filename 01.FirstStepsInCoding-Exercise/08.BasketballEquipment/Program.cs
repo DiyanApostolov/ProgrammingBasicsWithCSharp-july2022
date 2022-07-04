@@ -11,7 +11,7 @@ namespace _08.BasketballEquipment
 
             // Calculation
             double priceForSneakers = yearPaiment * 0.6;
-            double priceForOutfit = priceForSneakers - (priceForSneakers * 0.2); // * 0.8
+            double priceForOutfit = priceForSneakers - (priceForSneakers * 0.2); // priceForSneakers * 0.8
             double priceForBall = priceForOutfit / 4; // priceForOutfith * 0.25;
             double priceForAccessories = priceForBall / 5; // priceForBall * 0.2;
 
