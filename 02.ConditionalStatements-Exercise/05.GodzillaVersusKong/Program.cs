@@ -13,8 +13,6 @@ namespace _05.GodzillaVersusKong
             double clothesPrice = countOfPeople * priceForOneSuith;
             double decor = 0.1 * budget;
 
-
-
             if (countOfPeople > 150)
             {
                 clothesPrice = 0.9 * clothesPrice;
