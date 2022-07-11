@@ -24,8 +24,8 @@ namespace _06.WorldSwimmingRecord
             }
             else
             {
-                double needenSeconds = Math.Abs(worldRecord - finalTimeForSwim);
-                Console.WriteLine($"No, he failed! He was {needenSeconds:F2} seconds slower.");
+                double neededSeconds = Math.Abs(worldRecord - finalTimeForSwim);
+                Console.WriteLine($"No, he failed! He was {neededSeconds:F2} seconds slower.");
             }
         }
     }
