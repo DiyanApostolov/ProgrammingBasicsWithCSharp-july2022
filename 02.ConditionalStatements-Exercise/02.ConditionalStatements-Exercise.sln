@@ -1,19 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumSeconds", "01.SumSeconds\01.SumSeconds.csproj", "{A70EDA8B-390D-4DCF-8264-8D2C7755E565}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SumSeconds", "01.SumSeconds\01.SumSeconds.csproj", "{A70EDA8B-390D-4DCF-8264-8D2C7755E565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{75893187-D181-4BFE-AFB7-54B84B114E9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{75893187-D181-4BFE-AFB7-54B84B114E9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TimePlus15Minutes", "03.TimePlus15Minutes\03.TimePlus15Minutes.csproj", "{B559EAA0-9526-48FC-AD84-A961883AB688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.TimePlus15Minutes", "03.TimePlus15Minutes\03.TimePlus15Minutes.csproj", "{B559EAA0-9526-48FC-AD84-A961883AB688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ToyShop", "04.ToyShop\04.ToyShop.csproj", "{34179112-0874-4E64-9283-92803BBCEF93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ToyShop", "04.ToyShop\04.ToyShop.csproj", "{34179112-0874-4E64-9283-92803BBCEF93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.WorldSwimmingRecord", "06.WorldSwimmingRecord\06.WorldSwimmingRecord.csproj", "{22648660-9F7F-43DE-82EA-3790032FADE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.WorldSwimmingRecord", "06.WorldSwimmingRecord\06.WorldSwimmingRecord.csproj", "{22648660-9F7F-43DE-82EA-3790032FADE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LunchBreak", "08.LunchBreak\08.LunchBreak.csproj", "{623781A5-94DA-4BA9-883F-8C805D0F3AE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.LunchBreak", "08.LunchBreak\08.LunchBreak.csproj", "{623781A5-94DA-4BA9-883F-8C805D0F3AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GodzillaVersusKong", "05.GodzillaVersusKong\05.GodzillaVersusKong.csproj", "{DCB5B873-7403-436C-8C24-61A5B335A0E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{623781A5-94DA-4BA9-883F-8C805D0F3AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{623781A5-94DA-4BA9-883F-8C805D0F3AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{623781A5-94DA-4BA9-883F-8C805D0F3AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB5B873-7403-436C-8C24-61A5B335A0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB5B873-7403-436C-8C24-61A5B335A0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB5B873-7403-436C-8C24-61A5B335A0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB5B873-7403-436C-8C24-61A5B335A0E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
