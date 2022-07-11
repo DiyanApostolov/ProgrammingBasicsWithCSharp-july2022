@@ -12,9 +12,9 @@ namespace _06.WorldSwimmingRecord
 
             double distanceToSwimInSecond = distanceInMetres * timeInSecondsForMeter;
             double waterResistance = Math.Floor(distanceInMetres / 15);
-            double addetTime = waterResistance * 12.5;
+            double addedTime = waterResistance * 12.5;
 
-            double finalTimeForSwim = distanceToSwimInSecond + addetTime;
+            double finalTimeForSwim = distanceToSwimInSecond + addedTime;
 
             bool isRecordBeat = finalTimeForSwim < worldRecord;
 
